@@ -6,3 +6,4 @@ public enum Calc {
     }
 }
 // deneme 1
+// deneme 2
