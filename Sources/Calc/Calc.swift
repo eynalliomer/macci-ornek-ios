@@ -6,3 +6,4 @@ public enum Calc {
     }
 }
 // sonrasi 1
+// sonrasi 2
