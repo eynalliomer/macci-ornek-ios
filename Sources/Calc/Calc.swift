@@ -5,3 +5,4 @@ public enum Calc {
         values.isEmpty ? nil : values.reduce(0, +) / Double(values.count)
     }
 }
+// sonrasi 1
